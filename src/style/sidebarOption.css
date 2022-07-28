@@ -1,0 +1,25 @@
+.sideBar__option {
+  color: gray;
+  height: 40px;
+  cursor: pointer;
+  transition: all ease-in-out 200ms;
+  display: flex;
+  align-items: center;
+}
+.sideBar__option:hover {
+  color: white;
+}
+.sideBar__option p {
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: 14px;
+}
+.sidebarOption__Icon {
+  padding: 0 8px;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 600px) {
+  .sideBar__option h4 {
+    font-size: 13px;
+  }
+}
