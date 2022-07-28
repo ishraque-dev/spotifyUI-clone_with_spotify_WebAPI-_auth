@@ -1,9 +1,9 @@
+<h2>Every data in UI are dynamic, These are coming from Loged-in user accounts Spotify Web api. User can log in with there real spotify account & and as soon as the page render all information will popup, like Playlists and user credentials </h2>
+<img src="https://raw.githubusercontent.com/ishraque-dev/spotifyUI-clone_with_spotify_WebAPI-_auth/master/Screenshot%202022-07-28%20212235.png"/>
+## Available Scripts
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
